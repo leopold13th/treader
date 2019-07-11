@@ -12,7 +12,7 @@
 }
 
 .right{
-  background-color: blue;
+  background-color: #eff;
   height: 100%;
   overflow-y: scroll;
 }
@@ -21,6 +21,7 @@
   background-color: #eed;
   height: 100%;
   overflow-y: scroll;
+  font-size: 22px;
 }
 
 /*Remove the scrollbar from Chrome, Safari, Edge and IE*/
